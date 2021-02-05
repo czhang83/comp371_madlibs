@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Madlibs</string>
+    <string name="input_activity">Input</string>
+    <string name="result_activity">Result</string>
+    <string name="button_start">Start</string>
+    <string name="button_generate">Generate</string>
+    <string name="api_error">API Error</string>
+    <string name="miss_input">Please fill in all fields.</string>
+    <string name="button_gohoma">Go Home</string>
+</resources>
